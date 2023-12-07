@@ -3,24 +3,13 @@
 - 1997年生まれ
 - エンジニア2年目（2022年4月~）
 
-## 経験言語
-
-- Ruby
-- PHP
-- Python
-- TypeScript
-
-
-## 経験フレームワーク
-
-- Ruby on Rails
-- Laravel
-- FastAPI
-- Django
-- Flask
-- NestJS
-- React
-- Next.js
+## 技術スタック
+| 言語 | フレームワーク |
+|:-----------|:------------|
+| Ruby       | Ruby on Rails |
+| PHP        | Laravel      |
+| Python     | FastAPI・Django・Flask  |
+| TypeScript | React・Next.js・NestJS  |
 
 
 ## その他の経験
