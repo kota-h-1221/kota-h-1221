@@ -1,3 +1,5 @@
+![](https://github-readme-stats.vercel.app/api/top-langs?username=kota-h-1221&show_icons=true&locale=en&layout=compact)
+
 ## プロフィール
 
 - 1997年生まれ
