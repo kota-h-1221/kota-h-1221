@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api/top-langs?username=kota-h-1221&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=kota-h-1221&theme=ambient_gradient&show_icons=true&locale=en&layout=compact)
 
 ## プロフィール
 
